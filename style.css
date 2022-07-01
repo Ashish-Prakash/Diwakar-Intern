@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+}
+.invoice-body{
+    border: 2px solid black;
+    margin: 2px;
+    padding: 10px;
+}
+.first{
+    border: 2px solid black;
+    /* margin: 2px; */
+    padding: 10px;
+}
+.second{
+
+}
+.third{
+
+}
+.fourth{
+
+}
+.footer{
+
+}
+.address{
+
+}
+.date{
+
+}
+.cash-details{
+
+}
+.date{
+
+}
+.items-header{
+
+}
+.items{
+
+}
+.amount{
+
+}
+.total{
+
+}
