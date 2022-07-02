@@ -21,10 +21,15 @@
     border: 2px solid black;
 }
 .third{
-
+    padding: 10px;
+    border: 2px solid black;
 }
 .fourth{
 
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border: 2px solid;
 }
 .footer{
 
@@ -60,4 +65,11 @@
 }
 .total{
 
+}
+.header-text{
+    text-align: center;
+    margin-bottom: 4px;
+}
+.grand-total{
+    
 }
