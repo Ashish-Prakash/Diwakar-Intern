@@ -10,9 +10,15 @@
     border: 1px solid black;
     /* margin: 2px; */
     padding: 10px;
+    display: flex;
+    justify-content: space-between;
 }
 .second{
 
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border: 2px solid black;
 }
 .third{
 
@@ -37,9 +43,17 @@
 }
 .items-header{
 
+    display: flex;
+    justify-content: space-between;
+    background: gainsboro;
+    padding: 5px;
 }
 .items{
-
+    display: flex;
+    justify-content: space-between;
+    /* background: gainsboro; */
+    padding: 5px;
+    height: 185px;
 }
 .amount{
 
