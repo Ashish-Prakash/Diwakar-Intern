@@ -34,6 +34,7 @@
     border-left: 2px solid black;
     border-right: 2px solid black;
     
+    height: 200px;
 }
 .footer{
     border: 2px solid black;
@@ -44,7 +45,7 @@
 
 }
 .date{
-
+    
 }
 .cash-details{
 
@@ -78,4 +79,12 @@
 }
 .grand-total{
 
+    /*! border: 2px solid; */
+    /*! margin: 2px; */
+    margin: 10ox;
+    margin-top: 5px;
+    height: 20%;
+}
+.sub-total{
+    height: 80%;
 }
